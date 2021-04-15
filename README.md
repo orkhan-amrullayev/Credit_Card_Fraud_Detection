@@ -1,5 +1,4 @@
-
-# Credit_Card_Fraud_Detection with 94% accuracy
+# Fraud Detection in Credit Card transaction with more than 94% accuracy
 
 The dataset is from kaggle: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
